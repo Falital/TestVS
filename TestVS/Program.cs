@@ -11,6 +11,7 @@ namespace TestVS
         static void Main(string[] args)
         {
             String hello = "hello5";
+            String hela = "asd";
         }
     }
 }
