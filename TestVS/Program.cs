@@ -13,6 +13,7 @@ namespace TestVS
             String hello = "hello5";
             String hela = "asd";
             String he = "asdaaaaa";
+            String hasd = "asdasdas";
         }
     }
 }
