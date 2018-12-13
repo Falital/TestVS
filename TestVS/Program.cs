@@ -10,7 +10,7 @@ namespace TestVS
     {
         static void Main(string[] args)
         {
-            String hello = "hello";
+            String hello = "hello4";
         }
     }
 }
